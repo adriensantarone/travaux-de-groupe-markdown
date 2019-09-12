@@ -1,5 +1,5 @@
 
-<h1> #1 Introduction :</1>
+<h1> #1 Introduction :</h1>
     
 Si vous êtes un **[partisan du moindre effort](https://i.imgur.com/0Y0dV0y.gif)**, markdown est fait pour vous. *Simple, rapide et efficace*, il permet d'embellir un texte avec le moindre effort et un minimum de connaissance. Inspiré du *HTML*, il va permettre d'aller à l'essentiel et dieu sait comme aujourd'hui, on veut aller vers le but afin d'être le plus optimal.
 
